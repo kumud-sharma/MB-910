@@ -1,0 +1,18 @@
+[{
+  "Name": "Module 5: Learn the Fundamentals of Dynamics 365 Project Operations",
+  "Language": "English",
+  "BaseURL": "https://github.com/CloudLabs-MOC/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps",
+  "Files": [
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/prod/Instructions/Labs/LAB%5BMB-910%5D_M05_Lab1_Create_a_Project-based_Lead.md",
+      "Order": 1
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/prod/Instructions/Labs/LAB%5BMB-910%5D_M05_Lab2_Manage_a_Project-based_Opportunity_Create_a_Project-based_Lead.md",     "Order": 2
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/prod/Instructions/Labs/LAB%5BMB-910%5D_M05_Lab3_Dynamics_365_Project_Operations_capstone_lab.md",
+      "Order": 3
+    }
+     ]
+}]
